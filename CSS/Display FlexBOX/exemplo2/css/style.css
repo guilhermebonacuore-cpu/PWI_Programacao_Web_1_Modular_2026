@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 4px solid red;
+    height: 500px;
+    justify-content: space-between;
+}
+
+ header{
+    background-color: aqua;
+    border: 2px solid;
+    height: 20%;
+ }
+ .menu{
+    display: flex;
+    height: 65%;
+    
+}
+ main{
+    background-color: blue;
+    border: 2px solid;
+    width: 70%;
+ }
+
+ aside{
+    background-color: springgreen;
+    width: 30%;
+ }
+ footer{
+    background-color: chocolate;
+    border: 2px solid;
+
+ }
