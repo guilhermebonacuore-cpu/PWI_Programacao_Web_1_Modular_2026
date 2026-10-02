@@ -1,0 +1,16 @@
+ html{
+    font-size: 16px;
+ }
+ .pai{
+    border: 10px solid;
+    font-size:16px; 
+ }
+ p{
+    font-size: 1em;
+ }   
+ .TesteEm{
+    font-size: 2em;
+ }
+ .testeRem{
+    font-size: 4rem;
+ }
